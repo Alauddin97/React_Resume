@@ -5,9 +5,22 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  width: 80%;
+  margin: auto;
+  background:url('./component/image/sports.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 5px solid black;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+@media Screen and  (max-width:600px){
+  body{
+    width: auto;
+    margin: auto;
+  }
 }

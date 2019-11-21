@@ -1,0 +1,25 @@
+header{
+    background: rgba(0,0, 0,0.8);
+    color: whitesmoke;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    display: flex;
+    padding-left: 50px;
+    padding: 15px;
+}
+
+.profile{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+h3{
+    padding-left: 30px;
+}
+
+@media Screen and  (max-width:600px){
+    header{
+        font-size: 25px;
+    }
+}
