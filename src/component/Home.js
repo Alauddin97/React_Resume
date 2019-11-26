@@ -26,7 +26,7 @@ function Home() {
             <td>
               <label>Graduation</label>
             </td>
-            <td>pursuing 7th year (7.69 cgpa )</td>
+            <td>pursuing 7th Sem (7.69 cgpa )</td>
             <td>Ghousia College Of Engineering</td>
           </tr>
           <tr>
